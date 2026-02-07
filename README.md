@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Erik 👋
+
+- 🔭 I’m currently interested on Hardware engineering, ASIC, and Digital Design.
+- 🤔 I’m a Computer Engineering undergraduate @ SDSU.
+- 💬 If you'd like to work with me dm me!
 
 <!--
 **eagsols/eagsols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
